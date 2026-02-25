@@ -27,7 +27,7 @@ export default function TitleSlide() {
 
         <div className="mt-16 flex items-center gap-4">
           <Image
-            src="/headshot.png"
+            src="/headshot2.jpeg"
             alt="Michael Merrill"
             width={56}
             height={56}
